@@ -6,16 +6,15 @@ const Body = () => {
         <div className="App">
             <img src={logo} className="App-logo" alt="MentorMenta Studio" />
             <p>
-                Somos los mentores de tu inmersión hacia el mundo digital
+                <a
+                    className="App-link"
+                    href="https://mentormenta.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Próximamente
+                </a>
             </p>
-            <a
-                className="App-link"
-                href="https://mentormenta.com"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                Próximamente
-            </a>
         </div>
     )
 }
