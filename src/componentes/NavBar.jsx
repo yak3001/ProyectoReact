@@ -23,7 +23,7 @@ const NavBar = () => {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
                             <Nav.Link href="#planes">Paquetes integrales</Nav.Link>
-                            <Nav.Link href="#imagen">Servicios a tu medida</Nav.Link>
+                            <Nav.Link href="#servicios">Servicios a tu medida</Nav.Link>
                             <Nav.Link href="#contacto">Contacto</Nav.Link>
                         </Nav>
                         <Nav>
