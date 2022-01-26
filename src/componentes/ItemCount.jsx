@@ -45,9 +45,6 @@ const ItemCount = ({ stock, initial, onAdd }) => {
   </Card.Body>
 </Card>
 
-
-
-        // <p style={estilos}>{count} <button onClick={handlerMore} >Aumentar</button><button onClick={handlerLess} >Disminuir</button><button onClick={addCart} >Agrega al carrito</button></p>
     )
 }
 
